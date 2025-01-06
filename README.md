@@ -9,7 +9,7 @@
 
 |No. | Lecture                          | Starter 	| Example Code 	| Solution 	|
 |----|------------------------------	|:-----:	|--------	|---------	|
-|1 | JavaScript Fundamentals                      |[01_starter](https://github.com/RikkuX491/SE-NYC-010625-Phase-1/tree/01_starter)|||
+|1 | JavaScript Fundamentals                      |[01_starter](https://github.com/RikkuX491/SE-NYC-010625-Phase-1/tree/01_starter)|[01_example_code](https://github.com/RikkuX491/SE-NYC-010625-Phase-1/tree/01_example_code)||
 |2 | Functions & Scope                	          ||||
 |3 | JavaScript Data Structures & Array Iteration ||||
 |4 | DOM Manipulation                 	          ||||
