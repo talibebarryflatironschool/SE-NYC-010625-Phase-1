@@ -5,6 +5,7 @@
 - Explain how callback functions are used with event listeners
 - Write the code to add `click` and `submit` event listeners to elements using the `.addEventListener()` method
 - Explain the purpose of the `.preventDefault()` method
+- Write the code to add the `DOMContentLoaded` event listener to `document` using the `.addEventListener()` method
 
 ## Setup
 
