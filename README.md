@@ -18,5 +18,5 @@
 |7 | POST Requests                    	          |[07_starter](https://github.com/RikkuX491/SE-NYC-010625-Phase-1/tree/07_starter)|[07_example_code](https://github.com/RikkuX491/SE-NYC-010625-Phase-1/tree/07_example_code)|[07_solution](https://github.com/RikkuX491/SE-NYC-010625-Phase-1/tree/07_solution)|
 |8 | PATCH & DELETE Requests          	          |[08_starter](https://github.com/RikkuX491/SE-NYC-010625-Phase-1/tree/08_starter)|[08_example_code](https://github.com/RikkuX491/SE-NYC-010625-Phase-1/tree/08_example_code)|[08_solution](https://github.com/RikkuX491/SE-NYC-010625-Phase-1/tree/08_solution)|
 |9 | Communicating with External APIs 	          |[09_starter](https://github.com/RikkuX491/SE-NYC-010625-Phase-1/tree/09_starter)|[09_example_code](https://github.com/RikkuX491/SE-NYC-010625-Phase-1/tree/09_example_code)|[09_solution](https://github.com/RikkuX491/SE-NYC-010625-Phase-1/tree/09_solution)|
-|10 | Algorithmic Problem Solving 	              ||||
+|10 | Algorithmic Problem Solving 	              |[10_starter](https://github.com/RikkuX491/SE-NYC-010625-Phase-1/tree/10_starter)|||
 |11 | Context in JavaScript     	              ||||
